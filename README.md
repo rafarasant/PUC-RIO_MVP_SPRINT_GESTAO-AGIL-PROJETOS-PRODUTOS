@@ -28,7 +28,7 @@ E para visualizar as imagens desse backlog, basta abrir os arquivos "product-bac
 
 Ainda, há os protótipos de interface para as funcionalidades confeccionadas na Sprint 1. Eles são referentes, portanto, tão somente àquelas funcionalidades que integram o MVP, e podem ser visualizados na pasta "wireframe-farmaciapratica", presente na raiz desse repositório.
 
-## Por fim..., o vídeo de apresentação
+## Por fim, o vídeo de apresentação
 
 O vídeo no qual se apresenta o presente projeto MVP pode ser acessado através das seguintes formas:
 
