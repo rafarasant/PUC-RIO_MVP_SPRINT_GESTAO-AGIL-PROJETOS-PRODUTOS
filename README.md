@@ -20,7 +20,7 @@ A seguir, tem-se o detalhamento de cada uma das etapas do trabalho.
 
   ## Backlog
 
-Através do Jira, foram elaborados o backlog do produto e o backlog da sprint respectivamente. Após a criação do backlog da sprint (Sprint 1), foi inserida em seu escopo uma lista de tarefas a serem implementadas no contexto da confecção de um MVP de um eventual produto final. Isto é, o produto mínimo viável da aplicação mobile, uma versão que conta apenas com as funcionalidades básicas essenciais para o funcionamento do produto e que, apesar de se encontrar num estágio inicial de desenvolvimento, já pode ser usado e testado pelos usuários.
+Através do Jira, foram elaborados o backlog do produto e o backlog da sprint respectivamente. No backlog da sprint (Sprint 1) foi inserida uma lista de tarefas a serem implementadas no contexto do desenvolvimento de um MVP do Farmácia Prática. Isto é, o produto mínimo viável da aplicação mobile, uma versão que conta apenas com as funcionalidades básicas essenciais para o funcionamento do produto e que, apesar de se encontrar num estágio inicial de desenvolvimento, já pode ser usado e testado pelos usuários.
 
 E para visualizar as imagens desse backlog, basta abrir os arquivos "product-backlog.pdf" e "sprint-backlog.pdf", os quais estão presentes na raiz deste repositório. É sugerido, no entanto, que os arquivos PDF sejam baixados para uma melhor visualização.
 
