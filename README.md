@@ -6,7 +6,7 @@ O presente projeto MVP da Sprint de Gestão Ágil de Projetos e Produtos, do Cur
 * Backlog elaborado através do Jira, o qual é por sua vez subvidido em backlog do produto e backlog da sprint;
 * Protótipos das interfaces do produto, elaborados no Figma.
 
-Em conformidade com a proposta para a realização do projeto MVP da Sprint de Gestão Ágil de Projetos e Produtos, e através dos três momentos acima elencados, foi idealizado o aplicativo mobile Farmácia Prática, uma solução que visa, sobretudo, permitir que seus usuários peçam remédios sob encomenda pelo celular e os recebam no conforto de suas casas, de modo a não precisarem se deslocar até uma farmácia para adquiri-los.
+Em conformidade com a proposta para a realização do projeto MVP da Sprint de Gestão Ágil de Projetos e Produtos, e através dos três momentos acima elencados, foi idealizado o aplicativo mobile Farmácia Prática, uma solução que visa, sobretudo, permitir que seus usuários peçam remédios sob encomenda pelo celular e os recebam no conforto de suas casas (ou em qualquer outro endereço que escolherem), de modo a não precisarem se deslocar até uma farmácia para adquiri-los.
 
 A seguir, tem-se o detalhamento de cada uma das etapas do trabalho.
 
